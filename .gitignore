@@ -1,0 +1,5 @@
+vendor/
+stripe/
+sql.txt
+profanity_filter.php
+.env
