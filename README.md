@@ -1,6 +1,6 @@
 # Brighter Hires
 
-! Please note this site is currently in need of repairs and is unavailable online. It was initially developed in 2018 and 2019, with informal updates and work being done in the following years.
+! Please note this site is currently unfinished and is unavailable online. It was initially developed in 2018 and 2019, with informal updates and work being done in the following years. Due to the breakdown of an existing client relationship, this site cannot be launched.
 
 **Brighter Hires** is a high-performance, full-stack job board platform engineered for seamless connectivity between employers and job seekers. Built with a focus on reliability and user experience, the platform provides a secure environment for managing job listings, user accounts, and professional recruitment workflows.
 
